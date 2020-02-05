@@ -1,0 +1,7 @@
+intTupValues = ()
+intResultTupValues = ()
+intInputValues = input()
+intmultiplyValue = int(input())
+intTupValues = tuple(int(x) for x in intInputValues.split() )
+intResultTupValues = tuple(i * intmultiplyValue for i in intTupValues)
+print(intResultTupValues)
