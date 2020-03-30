@@ -1,0 +1,27 @@
+<SeasonsList>
+	<Season>
+		<seasonNumber>1</seasonNumber>
+		<seasonName>Spring</seasonName>
+		<description>Follows winter and preceeds summer</description>
+	</Season>
+	<Season>
+		<seasonNumber>2</seasonNumber>
+		<seasonName>Summer</seasonName>
+		<description>Hottest of the four temperate seasons</description>
+	</Season>
+	<Season>
+		<seasonNumber>3</seasonNumber>
+		<seasonName>Monsoon</seasonName>
+		<description>Also called green season</description>
+	</Season>
+	<Season>
+		<seasonNumber>4</seasonNumber>
+		<seasonName>Autumn</seasonName>
+		<description>Transition from summer to winter</description>
+	</Season>
+	<Season>
+		<seasonNumber>5</seasonNumber>
+		<seasonName>Winter</seasonName>
+		<description>Longest season</description>
+	</Season>
+</SeasonsList>

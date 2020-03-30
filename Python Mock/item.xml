@@ -1,0 +1,22 @@
+<ItemList>
+	<Item>
+		<itemNumber>1</itemNumber>
+		<itemName>Sugar Cane</itemName>
+		<category>Perennial Tropical Grass</category>
+	</Item>
+	<Item>
+		<itemNumber>2</itemNumber>
+		<itemName>Mango</itemName>
+		<category>Fruit</category>
+	</Item>
+	<Item>
+		<itemNumber>3</itemNumber>
+		<itemName>Christmas tree</itemName>
+		<category>Evergreen or Artificial Tree</category>
+	</Item>
+	<Item>
+		<itemNumber>4</itemNumber>
+		<itemName>Sweater</itemName>
+		<category>Garment</category>
+	</Item>
+</ItemList>
